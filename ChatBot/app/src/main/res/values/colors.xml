@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    Mis colores-->
+    <color name="Negro">#000000</color>
+    <color name="Gris">#D1DEDE</color>
+    <color name="Azul">#3D3B8E</color>
+    <color name="Blanco">#FFFFFF</color>
+<!--    <color name="">#774df2</color> es mi color azul -->
+</resources>
